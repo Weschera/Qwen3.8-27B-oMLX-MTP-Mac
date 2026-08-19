@@ -88,6 +88,15 @@ Raw results from our runs: `baseline.json`, `mtp2.json`, `mtp3.json`,
 - Memory-cap warning about `iogpu.wired_limit_mb` is benign for this model
   size on 64 GB+ machines.
 
+## Watch list
+
+**DFlash 2** (inco.ai, announced 2026-08-18) claims 2.7–3.4× for Qwen 3.8
+27B and lists oMLX support — but as of publication the oMLX integration is
+not publicly installable (closed-source fork DMG only; its core dependency
+repo is private). We verified this against the upstream source rather than
+running unverifiable binaries. We'll re-bench and update this ladder when it
+lands in upstream oMLX or an auditable source build.
+
 ## What we didn't test (yet)
 
 The recipe this builds on also ships an ANE (Neural Engine) prefill offload
