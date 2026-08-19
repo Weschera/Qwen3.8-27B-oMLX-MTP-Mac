@@ -1,0 +1,74 @@
+[
+  {
+    "tag": "mtp2",
+    "task": "prose",
+    "rep": 0,
+    "decode_tps": 42.55092317581814,
+    "gen_tokens": 320,
+    "ttft": 8.937000582984183,
+    "total": 16.433900207979605,
+    "prompt_tokens": 2085,
+    "cached": 0,
+    "text_head": "\n\n[mtp2-prose-0-0]\n\nToken generation in large language models (LLMs) is fundamen"
+  },
+  {
+    "tag": "mtp2",
+    "task": "prose",
+    "rep": 1,
+    "decode_tps": 44.308148400698755,
+    "gen_tokens": 320,
+    "ttft": 8.937478707986884,
+    "total": 16.137057374988217,
+    "prompt_tokens": 2085,
+    "cached": 0,
+    "text_head": "\n\n<think>\nThe user is asking me to explain why token generation (decode phase) o"
+  },
+  {
+    "tag": "mtp2",
+    "task": "prose",
+    "rep": 2,
+    "decode_tps": 43.574509692100094,
+    "gen_tokens": 320,
+    "ttft": 8.91780333398492,
+    "total": 16.23859712498961,
+    "prompt_tokens": 2085,
+    "cached": 0,
+    "text_head": "\n\nThe text provided in the prompt appears to be a corrupted or repeated string, "
+  },
+  {
+    "tag": "mtp2",
+    "task": "code",
+    "rep": 0,
+    "decode_tps": 56.04520728560797,
+    "gen_tokens": 320,
+    "ttft": 10.063198792020557,
+    "total": 15.755032500019297,
+    "prompt_tokens": 2367,
+    "cached": 0,
+    "text_head": "\n\n[mtp2-code-0-0]\nclass InventoryLedger:\n    def __init__(self, warehouse_id, cl"
+  },
+  {
+    "tag": "mtp2",
+    "task": "code",
+    "rep": 1,
+    "decode_tps": 55.94879360630088,
+    "gen_tokens": 319,
+    "ttft": 10.072840792010538,
+    "total": 15.756609458010644,
+    "prompt_tokens": 2367,
+    "cached": 0,
+    "text_head": "\n\nclass InventoryLedger:\n    def __init__(self, warehouse_id, clock):\n        se"
+  },
+  {
+    "tag": "mtp2",
+    "task": "code",
+    "rep": 2,
+    "decode_tps": 56.980692673821466,
+    "gen_tokens": 320,
+    "ttft": 10.066311000002315,
+    "total": 15.66469854200841,
+    "prompt_tokens": 2367,
+    "cached": 0,
+    "text_head": "\n\n[mtp2-code-2-15838]\nUnified memory on Apple silicon removes the discrete host-"
+  }
+]

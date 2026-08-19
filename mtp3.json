@@ -1,0 +1,74 @@
+[
+  {
+    "tag": "mtp3",
+    "task": "prose",
+    "rep": 0,
+    "decode_tps": 48.78201981898953,
+    "gen_tokens": 320,
+    "ttft": 8.646779540984426,
+    "total": 15.18607416600571,
+    "prompt_tokens": 2085,
+    "cached": 0,
+    "text_head": "\n\n[mtp3-prose-0-0]\n\nToken generation in large language models (LLMs) is fundamen"
+  },
+  {
+    "tag": "mtp3",
+    "task": "prose",
+    "rep": 1,
+    "decode_tps": 47.6347848535743,
+    "gen_tokens": 320,
+    "ttft": 8.62855670900899,
+    "total": 15.325343542004703,
+    "prompt_tokens": 2085,
+    "cached": 0,
+    "text_head": "\n\nThe provided text contains a significant amount of repetition, but the core te"
+  },
+  {
+    "tag": "mtp3",
+    "task": "prose",
+    "rep": 2,
+    "decode_tps": 47.59626431264951,
+    "gen_tokens": 320,
+    "ttft": 8.65758487500716,
+    "total": 15.359791541995946,
+    "prompt_tokens": 2085,
+    "cached": 0,
+    "text_head": "\n\nHere is the explanation of why token generation is memory-bound and the implic"
+  },
+  {
+    "tag": "mtp3",
+    "task": "code",
+    "rep": 0,
+    "decode_tps": 67.11971538955116,
+    "gen_tokens": 320,
+    "ttft": 9.701128958025947,
+    "total": 14.453830875019776,
+    "prompt_tokens": 2367,
+    "cached": 0,
+    "text_head": "\n\n[mtp3-code-0-0]\nclass InventoryLedger:\n    def __init__(self, warehouse_id, cl"
+  },
+  {
+    "tag": "mtp3",
+    "task": "code",
+    "rep": 1,
+    "decode_tps": 64.54087307832344,
+    "gen_tokens": 319,
+    "ttft": 9.869332624977687,
+    "total": 14.796442916995147,
+    "prompt_tokens": 2367,
+    "cached": 0,
+    "text_head": "\n\nclass InventoryLedger:\n    def __init__(self, warehouse_id, clock):\n        se"
+  },
+  {
+    "tag": "mtp3",
+    "task": "code",
+    "rep": 2,
+    "decode_tps": 64.95820258227508,
+    "gen_tokens": 320,
+    "ttft": 10.100729500001762,
+    "total": 15.011579667014303,
+    "prompt_tokens": 2367,
+    "cached": 0,
+    "text_head": "\n\n[mtp3-code-2-15838]\nUnified memory on Apple silicon removes the discrete host-"
+  }
+]

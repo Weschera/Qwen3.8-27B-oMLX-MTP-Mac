@@ -1,0 +1,74 @@
+[
+  {
+    "tag": "baseline",
+    "task": "prose",
+    "rep": 0,
+    "decode_tps": 22.2561235341134,
+    "gen_tokens": 320,
+    "ttft": 9.476877167006023,
+    "total": 23.81001112499507,
+    "prompt_tokens": 2085,
+    "cached": 0,
+    "text_head": "\n\n<think>\nThe user is asking me to explain why token generation (decode phase) o"
+  },
+  {
+    "tag": "baseline",
+    "task": "prose",
+    "rep": 1,
+    "decode_tps": 25.966576734751623,
+    "gen_tokens": 320,
+    "ttft": 8.718261457979679,
+    "total": 21.003284749982413,
+    "prompt_tokens": 2085,
+    "cached": 0,
+    "text_head": "\n\n[baseline-prose-2-7919]\nUnified memory on Apple silicon removes the discrete h"
+  },
+  {
+    "tag": "baseline",
+    "task": "prose",
+    "rep": 2,
+    "decode_tps": 26.372169268620052,
+    "gen_tokens": 320,
+    "ttft": 8.278663624980254,
+    "total": 20.37474858298083,
+    "prompt_tokens": 2085,
+    "cached": 0,
+    "text_head": "\n\n[baseline-prose-2-15838]\n\nUnified memory on Apple silicon removes the discrete"
+  },
+  {
+    "tag": "baseline",
+    "task": "code",
+    "rep": 0,
+    "decode_tps": 26.276322893349107,
+    "gen_tokens": 319,
+    "ttft": 9.71921779200784,
+    "total": 21.821367750002537,
+    "prompt_tokens": 2367,
+    "cached": 0,
+    "text_head": "\n\nclass InventoryLedger:\n    def __init__(self, warehouse_id, clock):\n        se"
+  },
+  {
+    "tag": "baseline",
+    "task": "code",
+    "rep": 1,
+    "decode_tps": 26.114203625480535,
+    "gen_tokens": 319,
+    "ttft": 8.962140124989673,
+    "total": 21.139421291998588,
+    "prompt_tokens": 2367,
+    "cached": 0,
+    "text_head": "\n\nclass InventoryLedger:\n    def __init__(self, warehouse_id, clock):\n        se"
+  },
+  {
+    "tag": "baseline",
+    "task": "code",
+    "rep": 2,
+    "decode_tps": 25.371765427753743,
+    "gen_tokens": 319,
+    "ttft": 9.287441749998834,
+    "total": 21.821059125009924,
+    "prompt_tokens": 2367,
+    "cached": 0,
+    "text_head": "\n\nclass InventoryLedger:\n    def __init__(self, warehouse_id, clock):\n        se"
+  }
+]

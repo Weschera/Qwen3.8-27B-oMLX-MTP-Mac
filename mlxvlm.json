@@ -1,0 +1,80 @@
+[
+  {
+    "tag": "mlxvlm-mtp",
+    "task": "prose",
+    "rep": 0,
+    "decode_tps": 43.99235114401605,
+    "gen_tokens": 320,
+    "n_chunks": 320,
+    "usage_completion_tokens": 320,
+    "ttft": 8.736221250001108,
+    "total": 15.98748179199174,
+    "prompt_tokens": 2097,
+    "text_head": "Token generation in large language models (LLMs) is fundamentally constrained by"
+  },
+  {
+    "tag": "mlxvlm-mtp",
+    "task": "prose",
+    "rep": 1,
+    "decode_tps": 41.54059210908227,
+    "gen_tokens": 320,
+    "n_chunks": 320,
+    "usage_completion_tokens": 320,
+    "ttft": 8.784700791002251,
+    "total": 16.463936540996656,
+    "prompt_tokens": 2097,
+    "text_head": "The distinction between the prefill and decode phases of Large Language Model (L"
+  },
+  {
+    "tag": "mlxvlm-mtp",
+    "task": "prose",
+    "rep": 2,
+    "decode_tps": 44.555008428628994,
+    "gen_tokens": 320,
+    "n_chunks": 320,
+    "usage_completion_tokens": 320,
+    "ttft": 8.724234749999596,
+    "total": 15.88392366602784,
+    "prompt_tokens": 2097,
+    "text_head": "Token generation in large language models (LLMs) is fundamentally divided into t"
+  },
+  {
+    "tag": "mlxvlm-mtp",
+    "task": "code",
+    "rep": 0,
+    "decode_tps": 56.464130309982885,
+    "gen_tokens": 320,
+    "n_chunks": 320,
+    "usage_completion_tokens": 320,
+    "ttft": 9.984112083009677,
+    "total": 15.633716499985894,
+    "prompt_tokens": 2379,
+    "text_head": "```python\nclass InventoryLedger:\n    def __init__(self, warehouse_id, clock):\n  "
+  },
+  {
+    "tag": "mlxvlm-mtp",
+    "task": "code",
+    "rep": 1,
+    "decode_tps": 56.796240264290056,
+    "gen_tokens": 320,
+    "n_chunks": 320,
+    "usage_completion_tokens": 320,
+    "ttft": 9.969284249993507,
+    "total": 15.585853208001936,
+    "prompt_tokens": 2379,
+    "text_head": "```python\nclass InventoryLedger:\n    def __init__(self, warehouse_id, clock):\n  "
+  },
+  {
+    "tag": "mlxvlm-mtp",
+    "task": "code",
+    "rep": 2,
+    "decode_tps": 56.95874580497383,
+    "gen_tokens": 320,
+    "n_chunks": 320,
+    "usage_completion_tokens": 320,
+    "ttft": 10.004864708986133,
+    "total": 15.605409374984447,
+    "prompt_tokens": 2379,
+    "text_head": "```python\nclass InventoryLedger:\n    def __init__(self, warehouse_id, clock):\n  "
+  }
+]
