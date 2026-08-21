@@ -1,0 +1,104 @@
+[
+  {
+    "tag": "ane-mtp3-063rc2",
+    "task": "prose",
+    "rep": 0,
+    "decode_tps": 51.91858181708324,
+    "gen_tokens": 320,
+    "ttft": 7.020355792,
+    "total": 13.164591416999999,
+    "prompt_tokens": 2085,
+    "cached": 0,
+    "text_head": "\n\n<think>\nThe user is asking me to explain why token generation (decode phase) o"
+  },
+  {
+    "tag": "ane-mtp3-063rc2",
+    "task": "prose",
+    "rep": 1,
+    "decode_tps": 56.361523545997436,
+    "gen_tokens": 320,
+    "ttft": 6.984637083000003,
+    "total": 12.644526666,
+    "prompt_tokens": 2085,
+    "cached": 0,
+    "text_head": "\n\n<think>\nThe user is asking me to explain why token generation (decode phase) o"
+  },
+  {
+    "tag": "ane-mtp3-063rc2",
+    "task": "prose",
+    "rep": 2,
+    "decode_tps": 51.72521216153782,
+    "gen_tokens": 320,
+    "ttft": 6.984552209,
+    "total": 13.151757459000002,
+    "prompt_tokens": 2085,
+    "cached": 0,
+    "text_head": "\n\n<think>\nThe user is asking me to explain why token generation (decode phase) o"
+  },
+  {
+    "tag": "ane-mtp3-063rc2",
+    "task": "code",
+    "rep": 0,
+    "decode_tps": 72.02973401554299,
+    "gen_tokens": 319,
+    "ttft": 8.015149375,
+    "total": 12.429992833,
+    "prompt_tokens": 2367,
+    "cached": 0,
+    "text_head": "\n\nclass InventoryLedger:\n    def __init__(self, warehouse_id, clock):\n        se"
+  },
+  {
+    "tag": "ane-mtp3-063rc2",
+    "task": "code",
+    "rep": 1,
+    "decode_tps": 71.98799702562717,
+    "gen_tokens": 319,
+    "ttft": 8.022582499999999,
+    "total": 12.439985582999995,
+    "prompt_tokens": 2367,
+    "cached": 0,
+    "text_head": "\n\nclass InventoryLedger:\n    def __init__(self, warehouse_id, clock):\n        se"
+  },
+  {
+    "tag": "ane-mtp3-063rc2",
+    "task": "code",
+    "rep": 2,
+    "decode_tps": 72.14985182806154,
+    "gen_tokens": 319,
+    "ttft": 8.004147415999995,
+    "total": 12.41164087499999,
+    "prompt_tokens": 2367,
+    "cached": 0,
+    "text_head": "\n\nclass InventoryLedger:\n    def __init__(self, warehouse_id, clock):\n        se"
+  },
+  {
+    "tag": "ane-mtp3-063rc2",
+    "kind": "prefill",
+    "size": 4096,
+    "rep": 0,
+    "ttft": 14.941512917000011,
+    "prompt_tokens": 4096,
+    "pp": 274.1355592805928,
+    "cached": 0
+  },
+  {
+    "tag": "ane-mtp3-063rc2",
+    "kind": "prefill",
+    "size": 4096,
+    "rep": 1,
+    "ttft": 14.974764915999998,
+    "prompt_tokens": 4096,
+    "pp": 273.5268315046182,
+    "cached": 0
+  },
+  {
+    "tag": "ane-mtp3-063rc2",
+    "kind": "prefill",
+    "size": 4096,
+    "rep": 2,
+    "ttft": 14.97357508399999,
+    "prompt_tokens": 4096,
+    "pp": 273.5485665261585,
+    "cached": 0
+  }
+]
